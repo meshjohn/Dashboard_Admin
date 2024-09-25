@@ -26,7 +26,7 @@ import "./App.css";
 import { useStateContext } from "./contexts/ContextProvider";
 
 registerLicense(
-  "Ngo9BigBOggjHTQxAR8/V1NAaF1cXmhNYVZpR2Nbe05zflBGal1SVBYiSV9jS3pTdUVlWHpbcHVQRmhYWQ=="
+  "Ngo9BigBOggjHTQxAR8/V1NDaF5cWWtCf1NpR2dGfV5ycEVHYVZURHxdRU0DNHVRdkdnWXZcdHZWQ2BeWUV/WUI="
 );
 
 const App = () => {
